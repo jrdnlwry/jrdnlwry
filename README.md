@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrdnlwry
+- 👋 Hi, I’m @jrdnlwry I'm currenty building [Resumoo an AI powered career management platform](https://resumoo.com).
 - 🌱 I’m currently learning JavaScript, Python, and general web development through Free Code Camp and a variety of other sources.
 - 💞️ I’m looking to collaborate on open source projects that leverage data or solve a unique problem.
 - 📫 How to reach me tatelwry@gmail.com
